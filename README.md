@@ -80,3 +80,23 @@
 2. html에서 head안에 link태그로 `favicon` href주소 연결하기
 ## 이미지태그 `tag`
 * 이미지 태그 안에 `alt`로 설명이 필요한 이미지엔 설명을 적고 설명이 필요 없는 이미지엔 `alt=""` 라도 적어야 한다
+## figure, figcaption 태그
+* 문서 안 사진을 감싸는 틀로서 활용하고 사진의 캡션을 정의 할 수 있습니다
+## video 태그
+* <video src=”동영상경로”></video> 
+* autoplay, muted, loop, controls 를 적어야함
+## class, id 많이 사용하는 키워드
+* wrapper, wrap, area 전체 묶는 영역
+* contents, container 중~소 묶는 영역
+* group, g 간단한 소그룹 영역
+* top, btm, left, right 레이아웃 방향을 의미하는 키워드
+* 예 : 의미있는단어_영역명
+* 예 : product_wrap, item_area, price_g, main_contents
+## div, span 그룹태그
+### div
+* 인라인고 블록이 2개 이상 형제일 경우 묶어주는 그룹태그
+* 레이아웃 기준 1행에 2열 이상 배치일 경우
+* 특정 의미를 가진 행에 같은 디자인 요소가 배치된 경우
+### span
+* 인라인이 2개 이상 형제일 경우 묶는 그룹태그
+* 의미없는 디자인 요소 인라인 처리 필요 시 사용
