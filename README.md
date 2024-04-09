@@ -83,7 +83,6 @@
 ## figure, figcaption 태그
 * 문서 안 사진을 감싸는 틀로서 활용하고 사진의 캡션을 정의 할 수 있습니다
 ## video 태그
-* <video src=”동영상경로”></video> 
 * autoplay, muted, loop, controls 를 적어야함
 ## class, id 많이 사용하는 키워드
 * wrapper, wrap, area 전체 묶는 영역
@@ -100,3 +99,15 @@
 ### span
 * 인라인이 2개 이상 형제일 경우 묶는 그룹태그
 * 의미없는 디자인 요소 인라인 처리 필요 시 사용
+## html5 semantic tag
+* 
+### semantic tag란?
+* html5에서 생성된 의미있는 태그임
+### header
+* 로고 및 내비게이션을 묶어주는 웹 사이트 레이아웃 임
+* 제목, 로고, 검색 폼, 작성자 이름 등의 요소도 포함할 수 있음
+* 주로 맨 위 상단에 있음
+### nav
+* 다른 페이지로의 링크를 보여주는 구획을 나타냄. 자주 쓰이는 예제는 메뉴, 목차, 색인임
+### gnb, lnb, snb
+* 
